@@ -1,0 +1,28 @@
+{
+  "name": "webpack-setup",
+  "version": "1.0.0",
+  "description": "In this exercise you will build a simple yet powerful webpack boilerplate, which you can later use as a starting point in your projects. You will be working with the webpack official guides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danifromecuador/webpack-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danifromecuador/webpack-setup/issues"
+  },
+  "homepage": "https://github.com/danifromecuador/webpack-setup#readme",
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
